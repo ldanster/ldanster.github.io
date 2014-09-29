@@ -8258,7 +8258,7 @@ Progress control. */
 
 .metro .tile.squarepeek {
   width: 150px;
-  height: 312px;
+  height: 150px;
 }
 
 .metro .tile.squarepeek img {
@@ -9008,4 +9008,8 @@ ul#wizard-steps li a {
   color: #FFF;
   text-decoration: none;
   text-transform: uppercase;
+}
+.fillfullwidth {
+    width: 100%;
+    height: 100%;
 }
